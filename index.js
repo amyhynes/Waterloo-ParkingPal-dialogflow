@@ -2,8 +2,6 @@
 // for Dialogflow fulfillment library docs, samples, and to report issues
 'use strict';
  
-//Below is my personal SendGrid key, this has a max of 100 per day and should not be used in production
-//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
 //const functions = require('firebase-functions');
 const { dialogflow } = require('actions-on-google');
 const app = dialogflow();
